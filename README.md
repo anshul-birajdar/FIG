@@ -1,5 +1,6 @@
 # FIG
->**About FIG**
+>**About FIG**  
+>
 >I am creating the *FIG* operating system, which stands for FIG isn't GNU. GNU inturn stands for GNU's Not UNIX.  
 >*Look at https://www.gnu.org*.  
 >Unix stylized as UNIX is the most copied operating system as it relatively simple to implement, manage, recreate, etc.  
