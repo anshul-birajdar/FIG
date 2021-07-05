@@ -8,7 +8,7 @@
 >In Unix and other systems, like FIG, GNU/Linux, FreeBSD, ... everything just plain works.  
 >Enough of this, to the main point now:
 
-The FIG operating system will have the following structure
+The FIG operating system will have the following structure  
 **the :DIRNAME indicates that there is/are  these regular directories as well as these in the /Computer directory are symlinked to the regular directories**  
 - /  
     - /Computer  
