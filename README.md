@@ -26,3 +26,16 @@ The FIG operating system will have the following structure
         - /Computer/TemporaryFiles:/tmp  
         - /Computer/Resources:/usr  
         - /Computer/System:/  
+## I have two problems with GNU/Linux
+- First is that it is GNU/Linux that means it is really not a single project (I mean the core operating system part), so there are many different projects, for example, the Linux *foundation* which develops the kernel, the GNU project which develops the whole core opeating system, the X.org foundation which build the X server, individual window managers or desktop environments (which are independant of distros or combined) and individual distributions which develop their own systems. GNU was intended as to be a complete and one operating system like FreeBSD, NetBSD, MINIX, or proprietary SunOS, NeXTSTEP, IRIX, MacOS ... but has failed to do so because of the kernel and the time to respond of the GNU project. Eventhough the GNU operating system is fragmented, I still use it, as I like the free software philosophy and is  better than proprietary software because of this. The license of FIG is GNU GPL because  I want to pass these freedoms to everyone. The common proprietary operating systems like Windows and MacOS are single operating systems as are free (i.e libre, see fsf.org) ie FreeBSD.
+- I left out the graphical system in the last one on purpose  
+
+
+
+
+
+
+
+
+
+- (Please don't  refer to them as win-such and such but w-some thing, like w32 or windows32 instead win32)
