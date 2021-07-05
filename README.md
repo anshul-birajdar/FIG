@@ -9,7 +9,7 @@
 >Enough of this, to the main point now:
 
 The FIG operating system will have the following structure
-** the :DIRNAME indicates that there is/are  these regular directories as well as these in the /Computer directory are symlinked to the regular directories **
+**the :DIRNAME indicates that there is/are  these regular directories as well as these in the /Computer directory are symlinked to the regular directories**  
 /  
   /Computer  
     /Computer/Applications:/usr/bin  
