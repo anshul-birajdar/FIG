@@ -81,4 +81,4 @@ The FIG operating system will have the following structure
 
 - (Please don't  refer to them as win such-and-such but w something, like w32 or windows32 instead win32)
 - FIG may/may not be the real/final name, and just be a code name.
-- [Privacy](https://sneak.berlin/20201112/your-computer-isnt-yours)
+- [Privacy:Why proprietary is bad](https://sneak.berlin/20201112/your-computer-isnt-yours)
