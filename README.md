@@ -31,16 +31,21 @@ The FIG operating system will have the following structure
         - /Computer/AppInstallations:/usr  
 ## I have two problems with GNU/Linux
 - First is that it is GNU/Linux that means it is really not a single project. 
-- For example, the Linux *foundation* which develops the kernel, the GNU project which develops the whole core opeating system, the X.org foundation
-- which build the X server, individual window managers or desktop environments (which are independant of distros or combined) and 
+- For example, the Linux *foundation* which develops the kernel, the GNU project which develops the whole core opeating system,
+- the X.org foundation which build the X server, individual window managers or desktop environments
+- (which are independant of distros or combined) and 
 - individual distributions which develop their own systems.
-- GNU was intended as to be a complete and one operating system like FreeBSD, NetBSD, MINIX, or proprietary SunOS, NeXTSTEP, IRIX, MacOS, ..., 
-- or non-UNIX: MS-DOS,Windows,VMS but the GNU project has failed to do so because of the kernel and the time to respond of the GNU project.
+- GNU was intended as to be a complete and one operating system like FreeBSD, NetBSD, MINIX, or proprietary SunOS, 
+- NeXTSTEP, IRIX, MacOS, ..., or non-UNIX: MS-DOS,Windows,VMS but the GNU project has failed to do so because of the
+- kernel and the time to respond of the GNU project.
 - Eventhough the GNU operating system is fragmented, I still use it,
 - as I like the free software philosophy and is  better than proprietary software because of this.
-- The license of FIG is GNU GPL because  I want to pass these freedoms to everyone. The common proprietary operating systems like Windows 
-- and MacOS are single operating systems as are free/libre ie FreeBSD, MINIX, except their GUIs.
-- I left out the graphical system in the last one on purpose. Graphical systems are the most common method of interaction to the computer. I have kept a huge focus on the graphical and command-line systems. The structure of the system reflects this.   
+- The license of FIG is GNU GPL because  I want to pass these freedoms to everyone.
+- The common proprietary operating systems like Windows and MacOS are single operating systems as are
+- free/libre ie FreeBSD, MINIX.
+- I left out the graphical system in the last one on purpose. 
+- Graphical systems are the most common method of interaction to the computer.
+- I have kept a huge focus on the graphical and command-line systems. The structure of the system reflects this.   
 - Everyone uses the graphical user interface or GUI,so
 - FIG will have a really good graphical intreface like MacOS, but
     - FIG is completely free/libre software
@@ -55,9 +60,9 @@ The FIG operating system will have the following structure
     - FIG has it's own advanced interface similar to X11 and maybe called X12.
     - FIGUI or X12 is better as it is linked together and has the GPL license.
     - [video](https://www.youtube.com/watch?v=cj02_UeUnGQ)
-    - The improvements were proprietarized by the companies, or distributed under different license, this not only reduced freedom, but also
-    - caused the thing to be fragmented, so there were different X11 servers, toolboxes, display engines, window managers, desktop environments,
-    -  default apps, all in myriads of licenses.
+    - The improvements were proprietarized by the companies, or distributed under different license, this not only
+    - reduced freedom, but also caused the thing to be fragmented, so there were different X11 servers, toolboxes,
+    -  display engines, window managers, desktop environments, default apps, all in myriads of licenses.
     - It will be licensed under the GPL to prevent fragmentation and prevent UNIX wars 2.0
     - FIG will have a better toolbox and everything than X11 because of the GPL license and hindsight.
     - there will be a newer executable format, that is easier to understand and library files 
