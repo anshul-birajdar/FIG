@@ -13,10 +13,10 @@ The FIG operating system will have the following structure
 - /  
 --  /Computer  
 --- /Computer/Applications:/usr/bin  
---- /Computer/Boot:/boot  
---- /Computer/Devices:/dev  
---- /Computer/CD-ROM:/cdrom  
---- /Computer/ConfigFiles:/etc  
+    /Computer/Boot:/boot  
+    /Computer/Devices:/dev  
+    /Computer/CD-ROM:/cdrom  
+    /Computer/ConfigFiles:/etc  
     /Computer/Users:/home  
     /Computer/Library:/usr/lib  
     /Computer/Media:/media  
