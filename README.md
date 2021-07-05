@@ -65,7 +65,10 @@ The FIG operating system will have the following structure
     -  display engines, window managers, desktop environments, default apps, all in myriads of licenses.
     - It will be licensed under the GPL to prevent fragmentation and prevent UNIX wars 2.0
     - FIG will have a better toolbox and everything than X11 because of the GPL license and hindsight.
-    - there will be a newer executable format, that is easier to understand and library files 
+    - there will be a newer executable format, that is easier to understand and library files, not like ELF
+    - there will be an easier git-like program that is better than git  because it has subdirectories
+    - visible and hashes and timestamps in a hidden file, hidden files don't count in hashes so it can be reverted without the command,
+    - and the history is visible in folder structure. 
  - Let's hope either this is implemented in GNU itself, so GNU has this, or FIG or  *new name of FIG* is implemented. 
 
 
