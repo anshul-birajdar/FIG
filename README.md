@@ -77,8 +77,22 @@ The FIG operating system will have the following structure
 
 
 ---
+    FIG is not GNU is not UNIX
+    Copyright (C) 2021 Anshul Birajdar
 
+    This program is free software: you can redistribute it and/or modify
+    it under the terms of the GNU General Public License as published by
+    the Free Software Foundation, either version 3 of the License, or
+    (at your option) any later version.
 
+    This program is distributed in the hope that it will be useful,
+    but WITHOUT ANY WARRANTY; without even the implied warranty of
+    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+    GNU General Public License for more details.
+
+    You should have received a copy of the GNU General Public License
+    along with this program.  If not, see <https://www.gnu.org/licenses/>.
+---
 - (Please don't  refer to them as win such-and-such but w something, like w32 or windows32 instead win32)
 - FIG may/may not be the real/final name, and just be a code name.
 - [Privacy:Why proprietary is bad](https://sneak.berlin/20201112/your-computer-isnt-yours)
